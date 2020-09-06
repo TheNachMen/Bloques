@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Barra.cs" />
     <Compile Include="Assets\Scripts\BarraBaseControler.cs" />
     <Compile Include="Assets\Scripts\BonusBarra.cs" />
+    <Compile Include="Assets\Scripts\BonusManager.cs" />
     <Compile Include="Assets\Scripts\BonusVel.cs" />
     <Compile Include="Assets\Scripts\Bonuspelota.cs" />
     <Compile Include="Assets\Scripts\Bonustamanio.cs" />
